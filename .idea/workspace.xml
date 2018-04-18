@@ -34,7 +34,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1155" />
+    <option name="x" value="269" />
+    <option name="width" value="1171" />
     <option name="height" value="860" />
   </component>
   <component name="ProjectView">
