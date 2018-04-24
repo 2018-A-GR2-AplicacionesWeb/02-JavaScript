@@ -40,7 +40,7 @@ class UsuarioDos {
 
     constructor(public nombre: string,
                 private _edad: number,
-                public esposo:UsuarioDos) {
+                public esposo?:UsuarioDos) {
     }
 
     get edad(): number {
